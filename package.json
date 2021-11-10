@@ -4,6 +4,7 @@
   "description": "News related to elon musk ",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/Rohan2596/elon-musk-news-api/issues"
   },
-  "homepage": "https://github.com/Rohan2596/elon-musk-news-api#readme"
+  "homepage": "https://github.com/Rohan2596/elon-musk-news-api#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1"
+  }
 }
