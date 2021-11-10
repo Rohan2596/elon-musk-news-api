@@ -1,0 +1,24 @@
+{
+  "name": "elon-musk-news-api",
+  "version": "1.0.0",
+  "description": "News related to elon musk ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohan2596/elon-musk-news-api.git"
+  },
+  "keywords": [
+    "news",
+    "elon",
+    "musk"
+  ],
+  "author": "ROHAN KADAM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rohan2596/elon-musk-news-api/issues"
+  },
+  "homepage": "https://github.com/Rohan2596/elon-musk-news-api#readme"
+}
